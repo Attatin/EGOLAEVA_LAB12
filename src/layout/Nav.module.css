@@ -1,0 +1,64 @@
+.nav {
+    display: flex;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+
+.links {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    padding: 0px;
+    list-style: none;
+    text-decoration: none;
+    
+}
+
+
+.links a {
+    
+    text-decoration: none;
+    margin: 20px; 
+    
+    justify-content: center;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+}
+    
+
+.button1 {
+    color: white;
+    
+    padding: 10px 10px; 
+    margin-left: 10px; 
+    border-radius: 10px;
+    text-decoration: none; 
+    display: flex;
+    background-color: rgb(221, 158, 42);
+}
+
+.button2 {
+    color: white;
+    
+    padding: 10px 10px; 
+    
+    border-radius: 10px;
+    text-decoration:double; 
+    display: flex;
+    background-color: rgb(69, 22, 169);
+}
+
+
+.button img {
+    height: 23px;
+    margin-right: 10px; 
+    margin-left: 10px;
+}
